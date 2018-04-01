@@ -11,7 +11,7 @@ function test_number
                 echo "Too Low"
         fi
 }
-n=$(pwd | ls | wc -l)
+n=$(ls -l | egrep "^-r" | wc -l)
 echo "How many files are in current directory?"
 while true;
 do
