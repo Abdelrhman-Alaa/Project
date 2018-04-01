@@ -1,5 +1,5 @@
 # Gussing game
-Sun  1 Apr 18:37:20 EET 2018
+Sun  1 Apr 18:59:09 EET 2018
 
 
-Number of lines: 21
+Number of lines: 22
